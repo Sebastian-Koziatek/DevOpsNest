@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Planowanie Infrastruktury/1. Analiza wymagań sprzętowych i sieciowych.md",
+                "file": "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Analiza wymagań sprzętowych i sieciowych"
+              "title": "3. Tworzenie diagramów infrastruktury"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do README"
+              "title": "Linki zwrotne do 3. Tworzenie diagramów infrastruktury"
             }
           },
           {
@@ -185,11 +185,11 @@
   },
   "active": "228991ed09d1b63e",
   "lastOpenFiles": [
-    "grafiki/diagram.png",
-    "1. Planowanie Infrastruktury/2. Projektowanie rozłożenia zasobów w infrastrukturze.md",
-    "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
-    "1. Planowanie Infrastruktury/1. Analiza wymagań sprzętowych i sieciowych.md",
     "1. Planowanie Infrastruktury/4. Przygotowanie dokumentacji technicznej (Markdown).md",
+    "grafiki/diagram.png",
+    "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
+    "1. Planowanie Infrastruktury/2. Projektowanie rozłożenia zasobów w infrastrukturze.md",
+    "1. Planowanie Infrastruktury/1. Analiza wymagań sprzętowych i sieciowych.md",
     "README.md",
     "grafiki/Infrastructure.png",
     "Bez nazwy.md",
