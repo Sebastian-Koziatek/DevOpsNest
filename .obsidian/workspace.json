@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Planowanie Infrastruktury/4. Przygotowanie dokumentacji technicznej (Markdown).md",
+                "file": "2. Tworzenie Maszyny Wirtualnej/1. Wprowadzenie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Przygotowanie dokumentacji technicznej (Markdown)"
+              "title": "1. Wprowadzenie"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "60b6d50eeb102ce8",
   "lastOpenFiles": [
+    "1. Planowanie Infrastruktury/4. Przygotowanie dokumentacji technicznej (Markdown).md",
     "2. Tworzenie Maszyny Wirtualnej/3. Konfiguracja sieci i storage.md",
     "2. Tworzenie Maszyny Wirtualnej/4. Snapshoty i backupy.md",
     "2. Tworzenie Maszyny Wirtualnej/2 Tworzenie i konfiguracja nowej VM.md",
@@ -185,7 +186,6 @@
     "Pasted image 20250513085503.png",
     "2. Tworzenie Maszyny Wirtualnej/4. Zarządzanie obrazami ISO.md",
     "2. Tworzenie Maszyny Wirtualnej/3. Instalacja systemu operacyjnego.md",
-    "1. Planowanie Infrastruktury/4. Przygotowanie dokumentacji technicznej (Markdown).md",
     "2. Tworzenie Maszyny Wirtualnej",
     "grafiki/diagram.png",
     "grafiki/Infrastructure.png",
