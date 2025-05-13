@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e62ccc1ec060a11b",
+            "id": "4266374b4ab7a64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
+                "file": "1. Planowanie Infrastruktury/4. Przygotowanie dokumentacji technicznej (Markdown).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Tworzenie diagramów infrastruktury"
-            }
-          },
-          {
-            "id": "228991ed09d1b63e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Tworzenie diagramów infrastruktury"
+              "title": "4. Przygotowanie dokumentacji technicznej (Markdown)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
+                "file": "1. Planowanie Infrastruktury/1. Analiza wymagań sprzętowych i sieciowych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do 3. Tworzenie diagramów infrastruktury"
+              "title": "Linki zwrotne do 1. Analiza wymagań sprzętowych i sieciowych"
             }
           },
           {
@@ -183,16 +168,27 @@
       "command-palette:Otwórz listę poleceń": false
     }
   },
-  "active": "228991ed09d1b63e",
+  "active": "60b6d50eeb102ce8",
   "lastOpenFiles": [
-    "1. Planowanie Infrastruktury/4. Przygotowanie dokumentacji technicznej (Markdown).md",
-    "grafiki/diagram.png",
-    "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
-    "1. Planowanie Infrastruktury/2. Projektowanie rozłożenia zasobów w infrastrukturze.md",
+    "2. Tworzenie Maszyny Wirtualnej/3. Konfiguracja sieci i storage.md",
+    "2. Tworzenie Maszyny Wirtualnej/4. Snapshoty i backupy.md",
+    "2. Tworzenie Maszyny Wirtualnej/2 Tworzenie i konfiguracja nowej VM.md",
+    "2. Tworzenie Maszyny Wirtualnej/1. Wprowadzenie.md",
+    "grafiki/nested-virtualization.png",
+    "grafiki/Hypervisor type1vs2.png",
     "1. Planowanie Infrastruktury/1. Analiza wymagań sprzętowych i sieciowych.md",
+    "1. Planowanie Infrastruktury/2. Projektowanie rozłożenia zasobów w infrastrukturze.md",
+    "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
     "README.md",
+    "grafiki/nat vs briged.drawio.png",
+    "Pasted image 20250513085432.png",
+    "Pasted image 20250513085503.png",
+    "2. Tworzenie Maszyny Wirtualnej/4. Zarządzanie obrazami ISO.md",
+    "2. Tworzenie Maszyny Wirtualnej/3. Instalacja systemu operacyjnego.md",
+    "1. Planowanie Infrastruktury/4. Przygotowanie dokumentacji technicznej (Markdown).md",
+    "2. Tworzenie Maszyny Wirtualnej",
+    "grafiki/diagram.png",
     "grafiki/Infrastructure.png",
-    "Bez nazwy.md",
     "1. Planowanie Infrastruktury",
     "Infrastructure.png",
     "grafiki",
