@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Tworzenie Maszyny Wirtualnej/1. Wprowadzenie.md",
+                "file": "5. Docker i Grafana/Docker/4. Podstawy pracy z dockerem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Wprowadzenie"
+              "title": "4. Podstawy pracy z dockerem"
             }
           }
         ]
@@ -168,31 +168,48 @@
       "command-palette:Otwórz listę poleceń": false
     }
   },
-  "active": "60b6d50eeb102ce8",
+  "active": "4266374b4ab7a64e",
   "lastOpenFiles": [
+    "5. Docker i Grafana/Docker/5. Dockerhub.md",
+    "5. Docker i Grafana/Docker/6. Instalacja.md",
+    "5. Docker i Grafana/Docker/4. Podstawy pracy z dockerem.md",
+    "5. Docker i Grafana/Docker/3. Podstawowe polecenia.md",
+    "5. Docker i Grafana/Docker/2. Struktura dockera.md",
+    "5. Docker i Grafana/Docker/1. Podstawowe pojęcia.md",
+    "5. Docker i Grafana/Grafana/1. Grafana Cloud.md",
+    "5. Docker i Grafana/Grafana/4. Instalacja i konfiguracja wersji OSS.md",
+    "5. Docker i Grafana/Grafana/3. Grafana OSS.md",
+    "grafiki/017-grafana-oss.png",
+    "5. Docker i Grafana/Grafana/2. Grafana Enterprise.md",
+    "grafiki/016-grafana-enterprise.png",
+    "grafiki/011-grafana-cloud.png",
+    "5. Docker/docker-compose.yml",
+    "5. Docker",
+    "5. Docker i Grafana/Grafana",
+    "5. Docker i Grafana/Docker",
+    "5. Docker i Grafana/docker-compose.yml",
+    "docker-compose.yml",
+    "grafiki/docker_hub.png",
+    "grafiki/docker_build_schema.png",
+    "grafiki/containerd.png",
+    "grafiki/schemat_docker.png",
+    "grafiki/docker_repository.png",
+    "grafiki/docker_image.png",
+    "grafiki/docker_engine.png",
+    "README.md",
+    "2. Tworzenie Maszyny Wirtualnej/1. Wprowadzenie.md",
+    "5. Docker i Grafana",
     "1. Planowanie Infrastruktury/4. Przygotowanie dokumentacji technicznej (Markdown).md",
     "2. Tworzenie Maszyny Wirtualnej/3. Konfiguracja sieci i storage.md",
     "2. Tworzenie Maszyny Wirtualnej/4. Snapshoty i backupy.md",
     "2. Tworzenie Maszyny Wirtualnej/2 Tworzenie i konfiguracja nowej VM.md",
-    "2. Tworzenie Maszyny Wirtualnej/1. Wprowadzenie.md",
-    "grafiki/nested-virtualization.png",
-    "grafiki/Hypervisor type1vs2.png",
     "1. Planowanie Infrastruktury/1. Analiza wymagań sprzętowych i sieciowych.md",
     "1. Planowanie Infrastruktury/2. Projektowanie rozłożenia zasobów w infrastrukturze.md",
     "1. Planowanie Infrastruktury/3. Tworzenie diagramów infrastruktury.md",
-    "README.md",
-    "grafiki/nat vs briged.drawio.png",
-    "Pasted image 20250513085432.png",
-    "Pasted image 20250513085503.png",
     "2. Tworzenie Maszyny Wirtualnej/4. Zarządzanie obrazami ISO.md",
     "2. Tworzenie Maszyny Wirtualnej/3. Instalacja systemu operacyjnego.md",
     "2. Tworzenie Maszyny Wirtualnej",
-    "grafiki/diagram.png",
-    "grafiki/Infrastructure.png",
     "1. Planowanie Infrastruktury",
-    "Infrastructure.png",
-    "grafiki",
-    "Diagram bez tytułu2.drawio 1.png",
-    "Diagram bez tytułu2.drawio.png"
+    "grafiki"
   ]
 }
